@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/juran78/personalPage/issues"
   },
-  "homepage": "https://github.com/juran78/personalPage#readme"
+  "homepage": "https://github.com/juran78/personalPage#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.1"
+  }
 }
