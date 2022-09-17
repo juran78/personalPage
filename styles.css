@@ -6,7 +6,7 @@
 body {
     height: 100vh;
     
-    background-image: url('https://images.unsplash.com/photo-1627398242454-45a1465c2479?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80');
+    background-image: url('https://images.unsplash.com/photo-1550063873-ab792950096b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -30,7 +30,7 @@ body {
 }
 #aboutDiv{
     margin-top: 10%;
-    color: rgb(232, 244, 61);
+    color: rgb(171, 245, 0);
     margin-bottom: 5%;
    
   
@@ -139,6 +139,10 @@ button:active {
     .card{
         width:200%
     }
+    #aboutDiv p {
+       
+        margin-bottom: 20%;
+    }
    
   }
 
@@ -147,5 +151,7 @@ button:active {
     #aboutDiv p {
         font-size:medium;
         width: 100vw;
+        margin-left: 5%;
+        margin-right: 5%;
     }
   }
