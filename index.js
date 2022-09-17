@@ -100,7 +100,7 @@ projectButton.addEventListener('click',() => {
 })
 
 const contactCard = document.getElementById('contact');
-let contactCardButton = document.querySelector('#contact button');
+let contactCardButton = document.querySelector('#contactButton');
 console.log(contactCardButton)
 console.log(contactCard);
 let contactDownState = true; 
